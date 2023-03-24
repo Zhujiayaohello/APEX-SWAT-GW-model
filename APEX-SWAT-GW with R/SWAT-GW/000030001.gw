@@ -1,0 +1,16 @@
+ .gw file Watershed HRU:6 Subbasin:3 HRU:1 Luse:AGRC Soil: s3090 Slope: 0-9999 2015/5/26 0:00:00 ArcSWAT 2009.93.7
+      25600.0000    | SHALLST : Initial depth of water in the shallow aquifer [mm]
+      10000.0000    | DEEPST : Initial depth of water in the deep aquifer [mm]
+        106.0000    | GW_DELAY : Groundwater delay [days]
+          0.0480    | ALPHA_BF : BAseflow alpha factor [days]
+      47600.0000    | GWQMN : Threshold depth of water in the shallow aquifer required for return flow to occur [mm]
+          0.0300    | GW_REVAP : Groundwater "revap" coefficient
+      47600.0000    | REVAPMN: Threshold depth of water in the shallow aquifer for "revap" to occur [mm]
+          0.0207    | RCHRG_DP : Deep aquifer percolation fraction
+          0.1731    | LARCHRG : The amount of lateral recharge from mountainous area entering into the aquifer [mm]
+          0.1596    | GW_SPYLD : Specific yield of the shallow aquifer [m3/m3]
+          0.0030    | DPSPYLD : Specific yield of the deep aquifer [m3/m3]
+         73.0000    | SHIDEP : The bottom bed burial depth of the shallow aquifer [m]
+         60.0000    | DPIDEP : The bottom bed burial depth of the deep aquifer [m]
+          0.4000    | SHPOR : The porosity of the shallow aquifer
+          0.4500    | DPPOR : The porosity of the deep aquifer
